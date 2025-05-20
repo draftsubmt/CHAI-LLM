@@ -1,0 +1,13 @@
+English-Bengali: 541 total sentence-pairs (41 having Twitter as the source of code-mixed itself and then corrected and translated to English)
+English-Spanish: 294 total sentence-pairs (53 having Twitter as the source of code-mixed itself and then corrected and translated to English)
+English-French: 248 total sentence-pairs
+English-Hindi: 270 total sentence-pairs (250 created by correcting the parallel English-Hinglish Twitter dataset)
+
+
+
+Parallel Dataset:
+
+146 total English sentences are same for English-Bengali and English-Spanish which makes it parallel
+English, English-Spanish and English-Bengali dataset.
+These sentences have been put in the "Parallel English, English-Bengali and English-Spanish" folder. 
+(The sentences already exist in the respective files)
